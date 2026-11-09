@@ -36,5 +36,3 @@ I break my own defences before attackers do, from endpoints to LLMs, and archite
 ### Toolkit
 
 <img src="assets/toolkit.svg" alt="Toolkit: Elastic, Splunk, Sentinel, MITRE ATT&CK, OpenAEV, MITRE ATLAS, Kubernetes, Python, KQL and more" width="100%">
-
-<sub>Everything here is drawn by hand as SVG, with no tracking or third-party widgets. Full story at <a href="https://tanvirahmedaadeef.com">tanvirahmedaadeef.com</a>.</sub>
