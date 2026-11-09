@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="190" viewBox="0 0 620 190" role="img" aria-label="Aegis Ward">
+<rect x=".5" y=".5" width="619" height="189" rx="10" fill="#0d1116" stroke="#1d2630"/>
+<rect x="0" y="18" width="3" height="154" rx="1.5" fill="#3ed68e"/>
+<text x="28" y="38" style="font-family:'Cascadia Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8d9aa8" letter-spacing="1">CASE-002</text>
+<circle cx="508" cy="33" r="4" fill="#3ed68e"><animate attributeName="opacity" dur="2s" begin="0.3s" repeatCount="indefinite" values="1;.35;1"/></circle><text x="518" y="38" style="font-family:'Cascadia Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#b4c0cc">Running</text>
+<text x="28" y="76" style="font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="700" fill="#e6ecf2" letter-spacing="-.4">Aegis Ward</text>
+<text x="28" y="108" style="font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#b4c0cc">A security gateway that stops prompt injection before it</text>
+<text x="28" y="130" style="font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#b4c0cc">reaches a local LLM.</text>
+<text x="28" y="168" style="font-family:'Cascadia Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8d9aa8">MITRE ATLAS · Qwen · OpenTelemetry</text><text x="596" y="168" style="font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#4da3ff" text-anchor="end">Read case →</text></svg>
